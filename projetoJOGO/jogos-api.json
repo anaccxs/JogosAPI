@@ -1,0 +1,191 @@
+{
+    "Jogos de RPG": [
+        {
+            "Nome": "Skyrim",
+            "Ano de Lançamento": "11/11/2011",
+            "Dono": "Bethesda Softworks",
+            "Prêmios": "VGX: Melhor RPG, Satellite Award de Melhor RPG, Kerrang! Award: Melhor Video Game, VGX: Estúdio do Ano",
+            "Preço": "Na Steam; R$ 84,95; No XBOX: R$ 45,00; XBOX: R$299; Ps4 e Ps5: R$299,90;",
+            "Imagem": "https://sm.ign.com/t/ign_br/game/t/the-elder-/the-elder-scrolls-v-skyrim_81xc.300.jpg",
+            "Plataformas": "Windows, PlayStation 3, PlayStation 4, PlayStation 5, Xbox One, Xbox 360, Xbox Series X e Series S"
+        },
+        {
+            "Nome": "Disco Elysium",
+            "Ano de Lançamento": "15/10/2019",
+            "Dono": "ZA/UM",
+            "Prêmios": "The Game Award para Melhor Jogo Independente, The Game Award para Melhor RPG, BAFTA Video Game Award: Jogo Estreante e BAFTA Games Award for Narrative",
+            "Preço": "Na Steam: R$ 75,49; Na Epic Games: R$ 75,99; Na Nintendo: R$ 203,95;",
+            "Imagem": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000044922/df5237749af09dda942147e22f49a0118b98fa7b5081cf53b31e1bd6530e7a23",
+            "Plataformas": "Windows, Nintendo Switch, MacOS, Ps4 e Xbox One, Xbox Series X e Series S"
+        },
+        {
+            "Nome": "Elden Ring",
+            "Ano de Lançamento": "22/02/2022",
+            "Dono": "FromSoftware",
+            "Prêmios": "The Game Award para Jogo do Ano, The Game Award para Melhor RPG e The Game Award para Melhor Direção",
+            "Preço": "Steam, XBOX, Ps4 e Ps5: R$ 229,90; ",
+            "Imagem": "https://i.ytimg.com/vi/c9ZB5WvY7f4/maxresdefault.jpg",
+            "Plataformas": "Windows, Ps4 e Ps5, Xbox One, Xbox Series X e Series S"
+        },
+        {
+            "Nome": "Diablo 3",
+            "Ano de Lançamento": "15/05/2012",
+            "Dono": "Blizzard Entertainment",
+            "Prêmios": "Nenhum",
+            "Preço": "Battle.net: R$: 91,90;",
+            "Imagem": "https://products.eneba.games/resized-products/URWddcK_350x200_3x-0.jpg",
+            "Plataformas": " Nintendo Switch, Ps4, Ps3, Xbox 360, macOS, Xbox One, Windows"
+        },
+        {
+            "Nome": "Divinity: Original Sin 2",
+            "Ano de Lançamento": "15/07/2016",
+            "Dono": "Larian Studios, Elverils",
+            "Prêmios": "BAFTA Video Games Award: Melhor Multiplayer",
+            "Preço": "Steam: R$ 90,99; Ps4: R$249,99; macOS: R$ 229,90; Xbox One: R$219,80;",
+            "Imagem": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/capsule_616x353.jpg?t=1709728210",
+            "Plataformas": "Nintendo Switch, Ps4, iPad, macOS, Xbox One, Windows"
+        }
+    ],
+    "Jogos de FPS": [
+        {
+            "Nome": "Valorant",
+            "Ano de Lançamento": "02/06/2020",
+            "Dono": "Riot Games",
+            "Prêmios": "The Game Award para Melhor Jogo de eSports",
+            "Preço": "Gratuito",
+            "Imagem": "https://cdn-0001.qstv.on.epicgames.com/MKORpnfIJsDPNUIeGm/image/landscape_comp.jpeg",
+            "Plataformas": "Windows, (Futuramente Ps5 e Xbox Series X e Series S)"
+        },
+        {
+            "Nome": "CSGO",
+            "Ano de Lançamento": "21/08/2012",
+            "Dono": "Valve Corporation, Hidden Path Entertainment",
+            "Prêmios": "The Game Award para Melhor Jogo de eSports, BAFTA Video Games Award: Prêmio de audiência AMD eSports",
+            "Preço": "Gratuito, porém para jogar com mais segurança é: R$ 83,99",
+            "Imagem": "https://a.espncdn.com/photo/2023/1003/r1233336_1296x729_16-9.jpg",
+            "Plataformas": "macOS, Windows, Ps3, Xbox One, Xbox 360"
+        },
+        {
+            "Nome": "Rainbow Six Siege",
+            "Ano de Lançamento": "01/12/2015",
+            "Dono": "Ubisoft Montreal",
+            "Prêmios": "Jogo do Ano no Prêmio Esports Brasil 2021",
+            "Preço": "Ubisoft Store, Steam e Epic Games: 84,99; ",
+            "Imagem": "https://s2-ge.glbimg.com/Mn4MpbfOftUzZYusjMjY6ucisp4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/b/d/MsAo0RQq25hzLuK95lew/r6-thumb.jpg",
+            "Plataformas": "Ps5, Ps4, Xbox One, Xbox Series X e Series S, Windows"
+        },
+        {
+            "Nome": "Call Of Duty: Black Ops",
+            "Ano de Lançamento": "09/11/2010",
+            "Dono": "Activision",
+            "Prêmios": "VGX: Melhor Jogo de Tiro, Golden Joystick Award for One to Watch",
+            "Preço": "Steam: R$ 184,00; Ps3: R$ 20,00",
+            "Imagem": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/capsule_616x353.jpg?t=1654809667",
+            "Plataformas": "Ps3, Xbox 360, Wii, Nintendo DS, Windows, macOS"
+        },
+        {
+            "Nome": "OverWatch",
+            "Ano de Lançamento": "03/05/2016",
+            "Dono": "Blizzard Entertainment",
+            "Prêmios": "The Game Award para Jogo do Ano, The Game Award para Melhor Jogo Continental, The Game Award para Melhor Jogo de eSport, Teen Choice Award: Melhor Jogo de Videogame",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://blz-contentstack-images.akamaized.net/v3/assets/blt2477dcaf4ebd440c/blt9828b8ec022ebedd/65a815eecad56065fd589545/Jan_2024_Esports_Update.jpg?format=webply&quality=90",
+            "Plataformas": "Ps4, Xbox One, Windows"
+        }
+    ],
+    "Jogos Battle Royale": [
+        {
+            "Nome": "Fortnite",
+            "Ano de Lançamento": "21/07/2017",
+            "Dono": "Epic Games",
+            "Prêmios": "The Game Award para Melhor Jogo Contínuo, The Game Award para Melhor Multiplayer, British Academy Games Award for Evolving Game, Teen Choice Award: Melhor Jogo de Videogame",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb",
+            "Plataformas": "Windows, Ps4, Ps5, Xbox One, Xbox 360, Xbox Series X e Series S, macOS, Nintendo"
+        },
+        {
+            "Nome": "PUBG",
+            "Ano de Lançamento": "23/03/2017",
+            "Dono": "Krafton, PUBG Corporation, Lightspeed & Quantum, Tencent Mobile International Limited",
+            "Prêmios": "The Game Award para Melhor Multiplayer",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://s2.glbimg.com/s2EDtZP8b0uROq4wJffi3FkUB1w=/0x0:788x443/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/v/l/U2hwGWR6mAWBrzMDG6IQ/pubg-mobile.jpg",
+            "Plataformas": "Ps4, Windows, Xbox One, Xbox Series X e Series S"
+        },
+        {
+            "Nome": "Apex Legends",
+            "Ano de Lançamento": "04/02/22019",
+            "Dono": "Respawn Entertainment, Panic Button Games, Respawn",
+            "Prêmios": "BAFTA Video Games Award: Melhor Multiplayer, The Game Award para Melhor Multiplayer, GLAAD Media Award for Outstanding Video Game",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000024591/e89f184e794f6ba0989238c3faea0fd2faba70e14b8cbd389228d3d83ad4bc2f",
+            "Plataformas": "Ps5, Ps4, Windows, Xbox One, Xbox Series X e Series S"
+        },
+        {
+            "Nome": "Free Fire",
+            "Ano de Lançamento": "04/12/2017",
+            "Dono": "Garena International",
+            "Prêmios": "Nenhum",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://t.ctcdn.com.br/gzcMsAT56f7vZ30WPwIfmLTVoP4=/48x27:931x524/1200x675/smart/i371015.jpeg",
+            "Plataformas": "Android, iOS"
+        },
+        {
+            "Nome": "Clash Royale",
+            "Ano de Lançamento": "",
+            "Dono": "Supercell",
+            "Prêmios": "BAFTA Video Games Award: Prêmio de audiência AMD eSports",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://c.wallhere.com/photos/fb/26/Clash_Royale_video_game_art_skeleton_watermarked-2242730.jpg!d",
+            "Plataformas": "Android, iOS, iPadOS"
+        }
+    ],
+    "Jogos SandBox": [
+        {
+            "Nome": "Minecraft",
+            "Ano de Lançamento": "18/11/2011",
+            "Dono": "Mojang",
+            "Prêmios": "BAFTA Video Games Award: Melhor Multiplayer ",
+            "Preço": "Pirata: Gratuito; Original: Média de R$ 90,00",
+            "Imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsPmG026_qp3as7jhWiu8RtzJfgCp3F_ihBu4AwUV_udSqT0zBt_N5hdcILq1x-F0jxk&usqp=CAU",
+            "Plataformas": "iOS, Java, Nintendo Switch, Android, Ps4, Ps5, Xbox One e PC, Xbox 360, macOS."
+        },
+        {
+            "Nome": "GTA V",
+            "Ano de Lançamento": "17/09/2013",
+            "Dono": "Rockstar Games",
+            "Prêmios": "VGX: Melhor Trilha Sonora, VGX: Jogo do Ano, BAFTA Video Games Award: Melhor Design, VGX: Jogo mais Antecipado",
+            "Preço": "R$ 89,91",
+            "Imagem": "https://www.adrenaline.com.br/wp-content/uploads/2022/04/GTA_5_PC_Arquivos_Versao_Aprimorada_-_03.jpg",
+            "Plataformas": "Ps5, Ps4, Ps3, Xbox One, Xbox 360, Windows, Xbox Series X e Series S"
+        },
+        {
+            "Nome": "Far Cry 5",
+            "Ano de Lançamento": "27/03/2018",
+            "Dono": "Ubisoft",
+            "Prêmios": "The Game Award para MelhorJogo de Ação, BAFTA Games Award: Melhor Música",
+            "Preço": "Em média: R$ 65,00",
+            "Imagem": "",
+            "Plataformas": "Ps4, Xbox One, Windows, Xbox Cloud Gaming, GeForce Now, Amazon Luna"
+        },
+        {
+            "Nome": "Rust",
+            "Ano de Lançamento": "11/12/2013",
+            "Dono": "Facepunch Studios, Double Eleven",
+            "Prêmios": "Nenhum",
+            "Preço": "Gratuito em todas as plataformas",
+            "Imagem": "https://1.bp.blogspot.com/-KOWEC9IqwIE/YK6BBO9tm-I/AAAAAAAAG2k/3Fn2787KID04X3N-odvi2emz1rNBNVhGwCNcBGAsYHQ/s1400/Rust-Console-Edition-Review.png",
+            "Plataformas": "Ps4, Microsoft Windows, Linux, macOS, Xbox One, Mac OS"
+        },
+        {
+            "Nome": "ARK",
+            "Ano de Lançamento": "02/06/2015",
+            "Dono": "Studio Wildcard, Instinct Games",
+            "Prêmios": "Nenhum",
+            "Preço": "Steam:  R$ 18,79",
+            "Imagem": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/ncom/software/switch/70070000015123/d490ad7bcd2ff46ee1679fab6fdcab1f6166c59613c47b299883d2943a0e796b",
+            "Plataformas": "Ps4, Nintendo Switch, Android, Xbox One, Windows, Linux, iOS, Xbox  Series"
+        }
+    ]
+  }
+  

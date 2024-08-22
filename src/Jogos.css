@@ -1,0 +1,69 @@
+/*@font-face {
+  font-family: Borned;
+  src: url(Borned.ttf);
+}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Graduate&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Graduate&display=swap');
+
+
+body{
+    background-color: #88976d;
+}
+
+.container {
+    padding: 20px;
+  }
+  
+  .container-lista {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .lista {
+    flex: 1;
+    margin: 0 10px;
+    max-width: 45%;
+  }
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+  
+  h2 {
+    font-family: "Bona Nova SC", serif;
+    text-align: center;
+  }
+
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:oblique;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+    width: 120px;
+    border: solid 1px;
+  }
+
+  .botao1{
+    border: solid 1px;
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #bbc4ac;
+  }
+  
+  .titulo1 {
+    font-family: "Graduate", serif;
+    text-align: center;
+  }
